@@ -5,7 +5,7 @@ This application allows users to browse various bike categories, view detailed p
 With a focus on user experience and functionality, BikeShop aims to provide a great shopping experience for cyclists of all levels.
 
 ## Link
-https://bikeshop-app.netlify.app/
+https://bike-shop-application.netlify.app/
 
 # Features
 ## Must-Have Features
